@@ -9,7 +9,7 @@ const styles = {
 export default function Header() {
   return (
     <div className="header" style={styles}>
-      <h1>Header</h1>
+      <h1>Aditya rastogi</h1>
     </div>
   );
 }
