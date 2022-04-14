@@ -1,17 +1,11 @@
 .addproject1{
     display: flex;
-<<<<<<< HEAD
     align-items: left;
     justify-content: right;
     padding-bottom: 18px;
     margin-right:  90px;
-=======
-     align-items: left; 
-     justify-content: right; 
-     padding-bottom: 18px; 
-     margin-right: 90px; 
->>>>>>> 27ea39989355f96aa1c5279d209ba36a8e1dd0a7
 }
+
 .form1{
     width:                400px;
     height:               555px;
@@ -45,7 +39,6 @@ input {
     border:                 1px solid #FAD9E6;
     background-color:     #f3f3f3;
     border: 1px solid rgb(228, 196, 215);
-<<<<<<< HEAD
     font-family:            'Montserrat', sans-serif;
     width:                  60%;
     justify-content: center;
@@ -61,6 +54,3 @@ input {
     font-weight:            300;
    
   }
-=======
-}
->>>>>>> 27ea39989355f96aa1c5279d209ba36a8e1dd0a7
