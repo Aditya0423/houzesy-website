@@ -6,7 +6,7 @@ export default function UpperPhoto(){
     return (
         <div style={{ backgroundImage: `url(${background})`,
         height:'95%',
-        width: '100%',
+        width:  '100%',
         marginTop:'-70px',
         fontSize:'50px',
         backgroundSize: 'cover',
