@@ -1,5 +1,5 @@
 import React from 'react';
-import Addproject from './AddProject';
+import Addproject from './Addproject';
 import background from "./img/placeholder.jpg";
 
 export default function UpperPhoto(){
