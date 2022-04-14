@@ -1,9 +1,9 @@
 .addproject{
     display: flex;
-    /* align-items: left; */
-    /* justify-content: right; */
-    /* padding-bottom: 18px; */
-    /* margin-right: 90px; */
+    align-items: left;
+    justify-content: right;
+    padding-bottom: 18px;
+    margin-right: 90px;
 }
 .form{
     width:                400px;
