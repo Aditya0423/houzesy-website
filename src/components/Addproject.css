@@ -1,0 +1,39 @@
+.addproject{
+    display: flex;
+    /* align-items: left; */
+    /* justify-content: right; */
+    /* padding-bottom: 18px; */
+    /* margin-right: 90px; */
+}
+.form{
+    width:                400px;
+    height:               555px;
+    /* padding:              5px; */
+    background-color:   rgb(245, 241, 241);
+    border-radius:        15px;
+    /* margin-left:          35px; */
+    margin-top:           3px;
+    box-shadow:           0 3px 5px rgb(32, 3, 3); 
+    
+  }
+
+  .top{
+      margin-bottom: 10px;
+      text-align: center;
+  }
+
+  .sub{
+      display: block;
+      margin: auto;
+      font-size: 19px;
+  }
+
+.bottom{
+    font-size: 20px;
+    display: block;
+}
+
+input{
+    font-size: 15px;
+    border: 1px solid rgb(228, 196, 215);
+}

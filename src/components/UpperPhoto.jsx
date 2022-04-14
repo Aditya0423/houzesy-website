@@ -1,11 +1,11 @@
 import React from 'react';
+import Addproject from './AddProject';
 import background from "./img/placeholder.jpg";
-import RegisterAndLogin from './registerAndLogin';
 
 export default function UpperPhoto(){
     return (
         <div style={{ backgroundImage: `url(${background})`,
-        height:'80vh',
+        height:'95%',
         width: '100%',
         marginTop:'-70px',
         fontSize:'50px',
@@ -17,7 +17,8 @@ export default function UpperPhoto(){
     height: '642px',
     width: '100%' , }}>
           <div>
-          <RegisterAndLogin />
+<Addproject/>
+          
           </div>
         </div>
       );
