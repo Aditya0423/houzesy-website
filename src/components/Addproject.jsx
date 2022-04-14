@@ -3,17 +3,17 @@ import "./Addproject.css";
 
 export default function Addproject(){
 return (
-    <div  className="addproject" style={{ paddingLeft: "5%" }}>
-      <div className="main">
+    <div  className="addproject1" style={{ paddingLeft: "5%" }}>
+      <div >
         
-        <div className="form ">
-          <div className="topPart">
+        <div className="form1 ">
+          <div >
             <div className='top'>Add a Project</div>         
           </div>
 
           <div className="bottom ">
             <form>
-              Name: <input
+             Name: <input
                 type="text"
                 id=""
                 name="userName"
@@ -34,14 +34,14 @@ return (
                 placeholder="Password"
               ></input>
                          
-              Firm: <input
+                         Firm: <input
                 type="text"
                 id=""
                 name="firm"
                 placeholder="Firm"
               ></input>
 
-               Website: <input
+Website: <input
                 type="text"
                 id=""
                 name="Website"
