@@ -3,12 +3,12 @@ import "./card.scss";
 
 export default function Card(props) {
   return (
-    <div className="card">
+    <div className="card1">
       <img src={props.src} alt=" gallary_img" className="topImg" />
       <p className="name">{props.name}</p>
-      <p className="info">{props.area}</p>
+      {/* <p className="info">{props.area}</p>
       <p className="rating">{props.ratings}</p>
-      <button className="btnSave">SAVE</button>
+      <button className="btnSave">SAVE</button> */}
     </div>
   );
 }

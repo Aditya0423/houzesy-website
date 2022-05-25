@@ -1,6 +1,7 @@
 import React from "react";
 import "./bottomPart.scss";
 
+
 export default function BottomPart() {
   return (
     <div className="mainClass">
@@ -46,6 +47,7 @@ export default function BottomPart() {
         <a href="###">TWTR</a>
         <a href="###">LIn</a>
       </div>
+      
     </div>
   );
 }

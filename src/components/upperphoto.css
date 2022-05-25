@@ -1,0 +1,32 @@
+
+
+@media only screen and (max-width: 970px){
+    .f-header{
+       margin-top: 200px;
+    }
+}
+
+.f-header{
+	text-align: center;
+	padding-top: 0px;
+	margin-bottom:0px;
+   margin-top: 80px;
+    background-color: #eaf0f2;
+    height: 300px;
+    width: 100%;
+} 
+
+header h1{
+	/* font: normal 32px/1.5 'Roboto', sans-serif;; */
+	color: #3F71AE;
+	padding-bottom: 16px;
+}
+
+.py-5{ 
+	color: #F05283;
+    margin-top: -10px;
+}
+
+.f-span{
+	color: #3F71EA;
+}

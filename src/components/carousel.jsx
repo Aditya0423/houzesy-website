@@ -1,3 +1,5 @@
+
+
 import React, { useState } from "react";
 import carouselData from "../carouselData";
 import ImgCarouselComp from "./imgCarouselComp";
@@ -46,3 +48,4 @@ export default function Carousel() {
     </div>
   );
 }
+

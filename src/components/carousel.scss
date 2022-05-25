@@ -1,3 +1,8 @@
+
+
+
+
+
 .carouselMain{
   display:                flex; 
   
@@ -47,10 +52,13 @@
 }
 #btnLeft{
   left :                  0;
-  @extend %btn-styles;
-  font-size: 40px;
-  // font-weight: bolder;  
-  background-color: white;
+    @extend %btn-styles;
+    font-size: 20px;
+    font-weight: bold;  
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #btnLeft:hover{
@@ -59,11 +67,15 @@
 }
 
 #btnRight{
-  right:                  0;
-  @extend %btn-styles;
-  font-size: 40px;
-  font-weight: 500;
-  background-color: white;
+  right:  0;
+    @extend %btn-styles;
+    font-size: 20px;
+  
+    background-color: white;
+   font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #btnRight:hover{

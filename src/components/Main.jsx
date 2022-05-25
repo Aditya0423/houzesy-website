@@ -6,7 +6,7 @@ import BottomPart from "./bottomPart";
 const styles = {
   display: "grid",
   grid: "auto-flow min-content / repeat (12,1fr)",
-  marginBottom: "50px"
+  marginBottom: "50px" 
 };
 
 export default function Main() {
@@ -14,7 +14,7 @@ export default function Main() {
     <div id="main" style={styles}>
       <TopPart />
       <MiddlePart />
-      <BottomPart />
+      {/* <BottomPart /> */}
     </div>
   );
 }
